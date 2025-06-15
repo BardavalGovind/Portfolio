@@ -10,11 +10,11 @@
 
 ---
 
-![Portfolio Screenshot](./public/screenshot.png)
+![Portfolio Screenshot](./public/homepage.png)
 
 ## ✨ Overview
 
-Welcome to the personal portfolio of **Aathif Zahir**, a passionate Software Engineering undergraduate with a strong focus on **full-stack web development**. This portfolio is a reflection of my journey, skills, projects, and achievements — built with a modern tech stack and polished UI/UX.
+Welcome to the personal portfolio of **Bardaval Govind**, a passionate Software Engineering undergraduate with a strong focus on **full-stack web development**. This portfolio is a reflection of my journey, skills, projects — built with a modern tech stack and polished UI/UX.
 
 ---
 
@@ -71,7 +71,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/aathifzahir/portfolio.git
+git clone https://github.com/BardavalGovind/portfolio.git
 cd portfolio
 
 # Install dependencies
@@ -114,10 +114,10 @@ vercel deploy --prod
 
 I’m open to collaborations, opportunities, or just a chat!
 
-- 📧 [aathif@example.com](mailto:aathif@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/aathifzahir)
-- 💻 [GitHub](https://github.com/aathifzahir)
+- 📧 [bardaval@example.com](mailto:bardavalgovind2005@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bardavalgovind/)
+- 💻 [GitHub](https://github.com/BardavalGovind)
 
 ---
 
-> © 2025 Aathif Zahir. Built with ❤️ using React, TypeScript, and Tailwind CSS.
+> © 2025 Bardaval Govind. Built with ❤️ using React, TypeScript, and Tailwind CSS.
