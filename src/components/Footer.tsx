@@ -51,7 +51,7 @@ const Footer = () => {
             </div>
             <div className="text-gray-400 text-sm text-right">
               <p>
-                © {currentYear} Esha Lal | Built with React and Tailwind
+                © {currentYear} Bardaval Govind | Built with React and Tailwind
               </p>
             </div>
           </div>
