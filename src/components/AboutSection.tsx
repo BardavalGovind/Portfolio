@@ -164,7 +164,7 @@ const AboutSection = () => {
                 <AvatarFallback>Bardaval.Govind()</AvatarFallback>
               </Avatar>
               <div className="absolute -bottom-2 -right-2 bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm font-medium">
-                7.87 GPA
+                8.01 CGPA
               </div>
             </motion.div>
 
